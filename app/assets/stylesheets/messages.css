@@ -122,6 +122,14 @@
   display: flex;
 }
 
+.form {
+  background-color: #DDDDDD;
+  height: 90px;
+  padding: 20px 40px;
+  display: flex;
+  box-sizing: border-box;
+}
+
 .form-input {
   background-color: white;
   width: 100%;
